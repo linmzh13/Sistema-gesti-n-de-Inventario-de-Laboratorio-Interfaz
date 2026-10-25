@@ -15,14 +15,25 @@ Aplicación de escritorio desarrollada en **Python** para la administración efi
 
 ## Estructura del Proyecto
 
-El código fuente se encuentra modularizado en los siguientes archivos dentro del directorio del proyecto:
+El código fuente se encuentra los siguientes archivos dentro del directorio del proyecto:
 
-```text
-Proyecto-Inventario/
- gui.py              # Interfaz gráfica principal de la aplicación (Tkinter)
+ interfaz.py              # Interfaz gráfica principal de la aplicación (Tkinter)
  main.py             # Versión alternativa de ejecución por consola
  base_datos.py       # Gestión de conexión, creación de tablas y consultas SQLite
  encargado.py        # Lógica y métodos correspondientes al rol de Encargado
  estudiante.py       # Lógica y métodos correspondientes al rol de Estudiante
  equipo.py           # Lógica y gestión de los equipos de laboratorio
  laboratorio.db      # Archivo de base de datos SQLite (almacena la información)
+
+## Instalación y Ejecución
+
+Descarga este repositorio asegurándote de mantener todos los archivos fuente en una misma carpeta.
+
+Abre tu terminal o entorno de desarrollo (por ejemplo, VS Code) apuntando al directorio del proyecto.
+
+ * Ejecuta la Interfaz Gráfica con el siguiente archivo: interfaz.py
+
+ * Si deseas probar la versión basada en consola de texto, ejecuta: main.py
+
+ * El archivo laboratorio.db contiene la persistencia de los datos registrados (usuarios, equipos y préstamos).
+   Los datos registrados se pueden visualizar al abrir el archivo en la aplicación de SQLite.
