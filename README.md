@@ -54,12 +54,15 @@ Abre tu terminal o entorno de desarrollo (por ejemplo, VS Code) apuntando al dir
 
 3. **Diagramas de Secuencias:**
 
-   *Inicio de sesión*
-   <img width="524" height="281" alt="Captura de pantalla 2026-10-26 115115" src="https://github.com/user-attachments/assets/3eeec087-ba48-40ce-b5c2-a098328717c9" />
+*Inicio de sesión*
 
-   *Solicitar préstamo*
-   <img width="548" height="318" alt="Captura de pantalla 2026-10-26 115219" src="https://github.com/user-attachments/assets/9950a25c-5a31-481b-8083-995587c7971e" />
+<img width="524" height="281" alt="Captura de pantalla 2026-10-26 115115" src="https://github.com/user-attachments/assets/3eeec087-ba48-40ce-b5c2-a098328717c9" />
 
-   *Devolver equipo*
-   <img width="527" height="271" alt="Captura de pantalla 2026-10-26 115308" src="https://github.com/user-attachments/assets/f02dd628-afd4-4889-9265-135da014494c" />
+*Solicitar préstamo*
+
+<img width="548" height="318" alt="Captura de pantalla 2026-10-26 115219" src="https://github.com/user-attachments/assets/9950a25c-5a31-481b-8083-995587c7971e" />
+
+*Devolver equipo*
+
+<img width="527" height="271" alt="Captura de pantalla 2026-10-26 115308" src="https://github.com/user-attachments/assets/f02dd628-afd4-4889-9265-135da014494c" />
 
