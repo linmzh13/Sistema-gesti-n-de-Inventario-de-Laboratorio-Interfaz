@@ -37,3 +37,29 @@ Abre tu terminal o entorno de desarrollo (por ejemplo, VS Code) apuntando al dir
 
  * El archivo laboratorio.db contiene la persistencia de los datos registrados (usuarios, equipos y préstamos).
    Los datos registrados se pueden visualizar al abrir el archivo en la aplicación de SQLite.
+
+## Modelado UML
+
+1. **Diagrama de Casos de Uso:**
+   
+<img width="399" height="365" alt="Captura de pantalla 2026-10-25 151719" src="https://github.com/user-attachments/assets/f92ae171-6cec-4328-bb1a-78447515e396" />
+
+   />
+
+2. **Diagrama de Clases:**
+
+<img width="338" height="373" alt="Captura de pantalla 2026-10-25 150413" src="https://github.com/user-attachments/assets/c472ecf8-32b5-4add-86bc-06eb0feda120" />
+
+   />
+
+3. **Diagramas de Secuencias:**
+
+   *Inicio de sesión*
+   <img width="524" height="281" alt="Captura de pantalla 2026-10-26 115115" src="https://github.com/user-attachments/assets/3eeec087-ba48-40ce-b5c2-a098328717c9" />
+
+   *Solicitar préstamo*
+   <img width="548" height="318" alt="Captura de pantalla 2026-10-26 115219" src="https://github.com/user-attachments/assets/9950a25c-5a31-481b-8083-995587c7971e" />
+
+   *Devolver equipo*
+   <img width="527" height="271" alt="Captura de pantalla 2026-10-26 115308" src="https://github.com/user-attachments/assets/f02dd628-afd4-4889-9265-135da014494c" />
+
