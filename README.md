@@ -1,4 +1,5 @@
 # Sistema-Gestion-de-Inventario-de-Laboratorio-Interfaz
+# Equipo de trabajo: Lineth Márquez y Jair Garzón.
 
 Aplicación de escritorio desarrollada en **Python** para la administración eficiente de recursos, control de inventario, registro de usuarios, gestión de préstamos y devoluciones de equipos en un laboratorio de electrónica. El sistema cuenta con una interfaz gráfica moderna (Tkinter) y una versión alternativa por consola, respaldadas por persistencia de datos local mediante **SQLite**.
 
