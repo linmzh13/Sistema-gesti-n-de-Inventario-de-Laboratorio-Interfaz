@@ -58,7 +58,8 @@ Abre tu terminal o entorno de desarrollo (por ejemplo, VS Code) apuntando al dir
 
 **Solicitar préstamo**
 
-<img width="548" height="318" alt="Captura de pantalla 2026-10-26 115219" src="https://github.com/user-attachments/assets/9950a25c-5a31-481b-8083-995587c7971e" />
+<img width="549" height="329" alt="Captura de pantalla 2026-10-26 115202" src="https://github.com/user-attachments/assets/99d24ad7-6a94-4720-9399-aa2bd6fbc6f6" />
+
 
 **Devolver equipo**
 
